@@ -2,7 +2,7 @@
 
 [TOC]
 
-![](../images/documents-con01-001.png)
+![](../images/documents/documents-con01-001.png)
 
 ## Concept 01: Text vs. text formatting
 
