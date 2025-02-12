@@ -2,7 +2,7 @@
 
 [TOC]
 
-![](../images/documents/documents-con01-001.png)
+![](../images/documents/documents-con01-header.png)
 
 ## Concept 01: Text vs. text formatting
 
@@ -61,7 +61,7 @@ If we are going to format a block of text according to our own designs, we first
 
 ------
 
-![][image of styles menu in MS word]
+![](../images/documents/documents-con02-header.png)
 
 ## Concept 02: 📏🎨 Styles & structured design
 
@@ -72,12 +72,12 @@ In good design work, text and the formatting of that text are *designed* separat
 * Structured authoring is how all modern web pages are made. For most web pages, an .html file defines the page content and the styles of each piece of content, and a .css file defines the appearance of each of those styles.  
   * Websites [look very different with and without .css files](https://dev.to/vaibhavkhulbe/the-web-without-css-18d).
 
-| ![][solbridge website with CSS] *The SolBridge website, with content \+ .css* | ![][solbridge website without CSS] *The SolBridge website, without .css* |
+| ![](css-instagram-1.png) *The Instagram login page, with content \+ .css* | ![](css-instagram-2.png) *The Instagram login page, without .css* |
 | :---: | :---: |
 
   * You can also modify the .css files to make a webpage look very different.
 
-| *![][google search results] You can freely change the appearance of any website …* | *![][google search results with modified CSS] … by altering the page’s CSS file.* |
+| *![](css-google-1.png) You can freely change the appearance of any website …* | *![](css-google-2.png) … by altering the page’s CSS file.* |
 | :---: | :---: |
 
 Academic documents – such as research papers and journal articles – have strict style guides that writers should follow. There are [many competing styles](https://libanswers.snhu.edu/faq/69000), each used in different academic fields. The most important part of these styles is their requirements for **references and citations**.
