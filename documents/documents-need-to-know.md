@@ -41,7 +41,7 @@ Some basic formatting is stored inside plain text files as **formatting characte
 | Column break | `——Column Break——` |
 | Page break | `——Page Break——` |
 
-### Resources
+**Go deeper**
 
 * Article: [How to clear formatting in MS Word](https://xodo.com/blog/how-to-clear-formatting-in-word)
 
@@ -72,12 +72,15 @@ In good design work, text and the formatting of that text are *designed* separat
 * Structured authoring is how all modern web pages are made. For most web pages, an .html file defines the page content and the styles of each piece of content, and a .css file defines the appearance of each of those styles.  
   * Websites [look very different with and without .css files](https://dev.to/vaibhavkhulbe/the-web-without-css-18d).
 
-| ![](css-instagram-1.png) *The Instagram login page, with content \+ .css* | ![](css-instagram-2.png) *The Instagram login page, without .css* |
+![](css-instagram-1.png)
+
+| ![](../images/documents/css-instagram-1.png) *The Instagram login page, with content \+ .css* | ![](../images/documents/css-instagram-2.png) *The Instagram login page, without .css* |
 | :---: | :---: |
 
+  
   * You can also modify the .css files to make a webpage look very different.
 
-| *![](css-google-1.png) You can freely change the appearance of any website …* | *![](css-google-2.png) … by altering the page’s CSS file.* |
+| ![](../images/documents/css-google-1.png) *You can freely change the appearance of any website …* | ![](../images/documents/css-google-2.png) *… by altering the page’s CSS file.* |
 | :---: | :---: |
 
 Academic documents – such as research papers and journal articles – have strict style guides that writers should follow. There are [many competing styles](https://libanswers.snhu.edu/faq/69000), each used in different academic fields. The most important part of these styles is their requirements for **references and citations**.
@@ -88,15 +91,15 @@ Academic documents – such as research papers and journal articles – have str
 * [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) is managed by the University of Chicago Press. It is currently in its 18th version. Chicago Style is commonly used in the field of economics.  
 * [MLA Style](https://style.mla.org/) is managed by the Modern Language Association of America. It is currently in its 9th version. MLA Style is commonly used in the field of economics.
 
-### Resources
+**Go deeper**
 
-* Video: [How to use styles in MS Word](https://www.youtube.com/watch?v=UOVU6qQ2iOM&ab_channel=KevinStratvert)  
-* Article: [Official guide](https://apastyle.apa.org/style-grammar-guidelines) to APA Style and [interactive tutorial](https://extras.apa.org/apastyle/basics-7e/#/)  
-  * Article: [Unofficial guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/index.html) to APA Style from Purdue Online Writing Lab  
-* Article: [Official guide](https://www.chicagomanualofstyle.org/book/ed18/frontmatter/toc.html) to Chicago Style (paywall)  
-  * Article: [Unofficial guide](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/cmos_overview_and_workshop.html) to Chicago Style from Purdue Online Writing Lab  
-* Article: [Official guide](https://mlahandbookplus.org/books/book/5/MLA-Handbook) to MLA Style (paywall)  
-  * Article: [Unofficial guide](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_overview_and_workshop.html) to MLA Style from Purdue Online Writing Lab
+* **Video:** [How to use styles in MS Word](https://www.youtube.com/watch?v=UOVU6qQ2iOM&ab_channel=KevinStratvert)  
+* **Article:** [Official guide](https://apastyle.apa.org/style-grammar-guidelines) to APA Style and [interactive tutorial](https://extras.apa.org/apastyle/basics-7e/#/)  
+  * **Article:** [Unofficial guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/index.html) to APA Style from Purdue Online Writing Lab  
+* **Article:** [Official guide](https://www.chicagomanualofstyle.org/book/ed18/frontmatter/toc.html) to Chicago Style (paywall)  
+  * **Article:** [Unofficial guide](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/cmos_overview_and_workshop.html) to Chicago Style from Purdue Online Writing Lab  
+* **Article:** [Official guide](https://mlahandbookplus.org/books/book/5/MLA-Handbook) to MLA Style (paywall)  
+  * **Article:** [Unofficial guide](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_overview_and_workshop.html) to MLA Style from Purdue Online Writing Lab
 
 ------
 
@@ -152,9 +155,9 @@ Academic documents – such as research papers and journal articles – have str
 
 *This task is adapted from [resources provided on the APA Style web page](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers).*
 
----
+------
 
-![][find / replace dialogue box]
+![](../images/documents/ms-word-find-replace-dialogue.png)
 
 ## Concept 03: 🔍🔁 Structural changes
 
@@ -192,12 +195,12 @@ Documents can be changed and modified using **structural editing**.
 
 \[video\]
 
----
+------
 
 # What you should know about documents
 
-| 📄📄📄📄📑📄📄📄 |  |  |
-| :---: | ----- | ----- |
+| 📄📄📄📄📑📄📄📄 |
+| :---: |
 
 ## Concept 04: Document appearance and consistency
 
@@ -221,9 +224,9 @@ To have a **consistent appearance** on all devices, **export your document as a 
 * The tradeoff is that PDFs are difficult to edit. Most software for PDFs only reads PDFs; but some allow editing.  
 * If the recipient needs to edit the file, don’t send a PDF. Send the original file.
 
----
+------
 
-![][image9]
+![](../images/documents/password-protected-document.png)
 
 ## Concept 05: 📄🔐 Document security
 
@@ -251,7 +254,7 @@ Word processor documents (.docx, .odt, [.pdf](https://www.adobe.com/acrobat/reso
 * **Never open a file** if you’re not expecting it or if it looks suspicious.  
   * The strongest anti-malware software is the one that **runs in your brain**.
 
-## Resources
+**Go deeper**
 
 * Article: [Adobe \- Can PDFs contain viruses?](https://www.adobe.com/acrobat/resources/can-pdfs-contain-viruses.html)
 
@@ -279,7 +282,7 @@ Unicode characters can be used to add **visual imagery** to documents that don�
   * **Ex.:** ↩, ◕, ⟁, ⬟, ☵, ⧮, ⠮, ‽, 🗹, ©, ₩, £  
 * Plain text documents **don’t allow images, formatting or rich text**. Plain text documents do **allow all Unicode characters**.
 
-## Resources
+**Go deeper**
 
 * [The official Unicode website](https://home.unicode.org/)  
 * [Search tool for Unicode characters](http://xahlee.info/comp/unicode_index.html?q=)  
