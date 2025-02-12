@@ -260,14 +260,14 @@ Word processor documents (.docx, .odt, [.pdf](https://www.adobe.com/acrobat/reso
 
 ------
 
-| `Unicode` | Uɳιƈσԃҽ ǝpoɔıu∩ |  𝔘𝔫𝔦𝔠𝔬𝔡𝔢 Û̶͖̈́̍̃́̅ṇ̴̡̤͈̟̦̦̘̒̉͆̈́̕͝ĭ̵͔̻͎̪̠̼̤c̶̳̾͐̃̽̈́ǫ̵̞͖͈̯̺͈͈̠̾̈́̈́͗̿͂̄̂͠͠d̷͎͈͍͚͕̠̲̜̘̺͌̌̓̇̅̊̈́̏̀e̸̩͇͚̬̟̓́͛̃  |
+| Unicode | Uɳιƈσԃҽ ǝpoɔıu∩ |  𝔘𝔫𝔦𝔠𝔬𝔡𝔢 Û̶͖̈́̍̃́̅ṇ̴̡̤͈̟̦̦̘̒̉͆̈́̕͝ĭ̵͔̻͎̪̠̼̤c̶̳̾͐̃̽̈́ǫ̵̞͖͈̯̺͈͈̠̾̈́̈́͗̿͂̄̂͠͠d̷͎͈͍͚͕̠̲̜̘̺͌̌̓̇̅̊̈́̏̀e̸̩͇͚̬̟̓́͛̃  |
 | :---: | :---: | ----- |
 
-## Concept 06: Text is defined by Unicode
+## Concept 06: Text is Unicode
 
 Unicode is the global standard for encoding text. Text from all languages and writing systems can be encoded using Unicode.
 
-[The Unicode Consortium Overview](https://www.youtube.com/watch?v=-n2nlPHEMG8)
+Video: [The Unicode Consortium Overview](https://www.youtube.com/watch?v=-n2nlPHEMG8)
 
 * Text ‘encoding’ refers to changing text to numbers so that it can be understood by a computer.)  
 * Unicode is universal, so your device can display [all of the writing systems that are part of Unicode](https://en.wikipedia.org/wiki/List_of_writing_systems#List_of_writing_systems_by_adoption): Arabic العربية, Greek Ελληνικά, Hangul 한글, Chinese 漢文, Sanskrit संस्कृत-, and more.  
