@@ -19,7 +19,7 @@
 | Microsoft Word 365 | ⊘ |  |
 | Naver Docs | ⊘ |  |
 
-## 🎉 This week’s fun tool
+## 🎉 A fun tool
 
 ![][image10]
 
