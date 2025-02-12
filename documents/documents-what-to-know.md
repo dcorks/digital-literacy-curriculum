@@ -157,7 +157,7 @@ Academic documents – such as research papers and journal articles – have str
 
 ![](../images/documents/ms-word-find-replace-dialogue.png)
 
-## Concept 03: 🔍🔁 Structural changes
+## 🔍🔁 Concept 03: Structural changes
 
 Documents can be changed and modified using **structural editing**.
 
@@ -200,7 +200,7 @@ Documents can be changed and modified using **structural editing**.
 | 📄📄📄📄📑📄📄📄 |
 | :---: |
 
-## Concept 04: 📃📜 Document appearance and consistency
+## 📃📜 Concept 04: Document appearance and consistency
 
 Document appearance generally **isn’t consistent across devices**. However, the appearance of PDFs *is* **universally consistent**.
 
@@ -226,7 +226,7 @@ To have a **consistent appearance** on all devices, **export your document as a 
 
 ![](../images/documents/password-protected-document.png)
 
-## Concept 05: 📄🔐 Document security
+## 📄🔐 Concept 05: Document security
 
 Individuals and companies may have strong motivations to protect the contents of a document. However, documents are generally **not seen as a highly secure type of file**.
 
@@ -261,7 +261,7 @@ Word processor documents (.docx, .odt, [.pdf](https://www.adobe.com/acrobat/reso
 | Unicode | Uɳιƈσԃҽ ǝpoɔıu∩ |  𝔘𝔫𝔦𝔠𝔬𝔡𝔢 Û̶͖̈́̍̃́̅ṇ̴̡̤͈̟̦̦̘̒̉͆̈́̕͝ĭ̵͔̻͎̪̠̼̤c̶̳̾͐̃̽̈́ǫ̵̞͖͈̯̺͈͈̠̾̈́̈́͗̿͂̄̂͠͠d̷͎͈͍͚͕̠̲̜̘̺͌̌̓̇̅̊̈́̏̀e̸̩͇͚̬̟̓́͛̃  |
 | :---: | :---: | ----- |
 
-## Concept 06: 🔢🔣 Text is Unicode
+## 🔢🔣 Concept 06: Text is Unicode
 
 Unicode is the global standard for encoding text. Text from all languages and writing systems can be encoded using Unicode.
 
