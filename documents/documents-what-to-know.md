@@ -2,7 +2,7 @@
 
 ![](../images/documents/documents-con01-header.png)
 
-## Concept 01: 🔠🔡 Text vs. text formatting
+## 🔠🔡 Concept 01: Text vs. text formatting
 
 In a document, **text** and the **formatting of that text** are *stored* separately.
 
@@ -61,7 +61,7 @@ If we are going to format a block of text according to our own designs, we first
 
 ![](../images/documents/documents-con02-header.png)
 
-## Concept 02: 📏🎨 Styles & structured design
+## 📏🎨 Concept 02: Styles & structured design
 
 In good design work, text and the formatting of that text are *designed* separately.
 
@@ -261,7 +261,7 @@ Word processor documents (.docx, .odt, [.pdf](https://www.adobe.com/acrobat/reso
 | Unicode | Uɳιƈσԃҽ ǝpoɔıu∩ |  𝔘𝔫𝔦𝔠𝔬𝔡𝔢 Û̶͖̈́̍̃́̅ṇ̴̡̤͈̟̦̦̘̒̉͆̈́̕͝ĭ̵͔̻͎̪̠̼̤c̶̳̾͐̃̽̈́ǫ̵̞͖͈̯̺͈͈̠̾̈́̈́͗̿͂̄̂͠͠d̷͎͈͍͚͕̠̲̜̘̺͌̌̓̇̅̊̈́̏̀e̸̩͇͚̬̟̓́͛̃  |
 | :---: | :---: | ----- |
 
-## Concept 06: 🔢🔣🉐️ Text is Unicode
+## Concept 06: 🔢🔣 Text is Unicode
 
 Unicode is the global standard for encoding text. Text from all languages and writing systems can be encoded using Unicode.
 
