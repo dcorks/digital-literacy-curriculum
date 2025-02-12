@@ -138,27 +138,10 @@
 
 | Action | Mouse | Touchpad |
 | :---- | :---- | :---- |
-| Select word | Click × 2 | Click × 2 |
-| Select paragraph | Click × 3 | Click × 3 |
+| Select word | `Click × 2` | `Click × 2` |
+| Select paragraph | `Click × 3` | `Click × 3` |
 | Free select _by letter_ | `Click & drag` | `Click × 2 & drag` |
 | Free select _by word_ | `Click × 2 & drag` | `Click × 3 & drag` |
 | Free select _by paragraph_ | `Click × 3 & drag` | `Click × 4 & drag` |
 
 \[video demo of mouse selection shortcuts\]
-
-### 🧭⛰️ Go further
-
-**Exams and certifications**
-
-* [Microsoft offers paid exams and certifications for MS Word](https://learn.microsoft.com/en-us/credentials/browse/?products=office-word)  
-* [Google offers free training and certification for Google Docs](https://cloud.google.com/learn/training/workspace)
-
-**Advanced functions**
-
-* [Add-ins for MS Word](https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1)  
-* [Add-ons for Google Docs](https://workspace.google.com/marketplace?host=docs)  
-* [Extensions for LibreOffice Writer](https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d)
-
-**Additional reading**
-
-* [Fonts Knowledge \- Google Fonts](https://fonts.google.com/knowledge)
