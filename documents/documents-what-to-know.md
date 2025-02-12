@@ -1,7 +1,5 @@
 # What you need to know about documents
 
-[TOC]
-
 ![](../images/documents/documents-con01-header.png)
 
 ## Concept 01: Text vs. text formatting
@@ -41,7 +39,7 @@ Some basic formatting is stored inside plain text files as **formatting characte
 | Column break | `——Column Break——` |
 | Page break | `——Page Break——` |
 
-**Go deeper**
+**Related links**
 
 * Article: [How to clear formatting in MS Word](https://xodo.com/blog/how-to-clear-formatting-in-word)
 
@@ -91,7 +89,7 @@ Academic documents – such as research papers and journal articles – have str
 * [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) is managed by the University of Chicago Press. It is currently in its 18th version. Chicago Style is commonly used in the field of economics.  
 * [MLA Style](https://style.mla.org/) is managed by the Modern Language Association of America. It is currently in its 9th version. MLA Style is commonly used in the field of economics.
 
-**Go deeper**
+**Related links**
 
 * **Video:** [How to use styles in MS Word](https://www.youtube.com/watch?v=UOVU6qQ2iOM&ab_channel=KevinStratvert)  
 * **Article:** [Official guide](https://apastyle.apa.org/style-grammar-guidelines) to APA Style and [interactive tutorial](https://extras.apa.org/apastyle/basics-7e/#/)  
@@ -197,7 +195,7 @@ Documents can be changed and modified using **structural editing**.
 
 ------
 
-# What you should know about documents
+# What you should keep in mind
 
 | 📄📄📄📄📑📄📄📄 |
 | :---: |
@@ -254,7 +252,7 @@ Word processor documents (.docx, .odt, [.pdf](https://www.adobe.com/acrobat/reso
 * **Never open a file** if you’re not expecting it or if it looks suspicious.  
   * The strongest anti-malware software is the one that **runs in your brain**.
 
-**Go deeper**
+**Related links**
 
 * Article: [Adobe \- Can PDFs contain viruses?](https://www.adobe.com/acrobat/resources/can-pdfs-contain-viruses.html)
 
@@ -282,7 +280,7 @@ Unicode characters can be used to add **visual imagery** to documents that don�
   * **Ex.:** ↩, ◕, ⟁, ⬟, ☵, ⧮, ⠮, ‽, 🗹, ©, ₩, £  
 * Plain text documents **don’t allow images, formatting or rich text**. Plain text documents do **allow all Unicode characters**.
 
-**Go deeper**
+**Related links**
 
 * [The official Unicode website](https://home.unicode.org/)  
 * [Search tool for Unicode characters](http://xahlee.info/comp/unicode_index.html?q=)  
@@ -290,3 +288,25 @@ Unicode characters can be used to add **visual imagery** to documents that don�
 * [Emoji Finder: Emoji search tool](https://emojifinder.com/)  
 * [Quiz: Guess the movie title based on emoji](https://www.britannica.com/quiz/guess-the-movie-emoji-quiz)
 
+# How you can go further
+
+**Get a certification**
+
+* [Microsoft offers paid exams and certifications for MS Word](https://learn.microsoft.com/en-us/credentials/browse/?products=office-word)  
+* [Google offers free training and certification for Google Docs](https://cloud.google.com/learn/training/workspace)
+
+**Explore advanced functions**
+
+* [Add-ins for MS Word](https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1)  
+* [Add-ons for Google Docs](https://workspace.google.com/marketplace?host=docs)  
+* [Extensions for LibreOffice Writer](https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d)
+
+**Add new functions**
+
+* [Add-ins for MS Word](https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1)  
+* [Add-ons for Google Docs](https://workspace.google.com/marketplace?host=docs)  
+* [Extensions for LibreOffice Writer](https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d)
+
+**Do some extra reading**
+
+* [Fonts Knowledge \- Google Fonts](https://fonts.google.com/knowledge)
