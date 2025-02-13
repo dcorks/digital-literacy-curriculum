@@ -59,7 +59,7 @@ If we are going to format a block of text according to our own designs, we first
 
 ------
 
-![](../images/documents/documents-con02-header.png)
+![](../images/documents/text-styles-menu.png)
 
 ## 📏🎨 Concept 02: Styles & structured design
 
