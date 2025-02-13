@@ -1,9 +1,13 @@
 # Documents - learning module
 
+![Importance section banner](../images/importance-section-banner.png)
+
 ## Importance
 
 Documents are important (and will never go away) because they are how we remember information and ideas. We think about ideas and discuss them with other people, and then we formalize them by writing them down. Quick, simple ideas become a memo or note on your phone. Ideas about what already happened become reports. Ideas about what to do in the future become official plans. Ideas about what to do together are formalized as proposals, contracts, and agreements. Big, complex ideas get published as books and textbooks. Each of these human activities centres around writing text in a document.
 In the modern world, and especially in professional contexts, we spend a lot of time reading documents and also a lot of time creating documents. Being able to do this effectively and efficiently is worth an investment of our time and effort.
+
+![Warm-up questions section banner](../images/warm-up-questions-section-banner.png)
 
 ## Warm-up questions
 
@@ -11,6 +15,8 @@ In the modern world, and especially in professional contexts, we spend a lot of 
 * Does the design and formatting of a document make you more likely to trust its contents?
 * Does a given document file look the same on every device?
 * Do you have any preferred fonts?
+
+![Key concepts section banner](../images/key-concepts-section-banner.png)
 
 ## Key concepts
 
@@ -21,6 +27,8 @@ In the modern world, and especially in professional contexts, we spend a lot of 
 1.	Documents are not a highly secure type of file.
 1.	Unicode is the global standard for encoding text.
 
+![Preview task section banner](../images/preview-task-section-banner.png)
+
 ## Preview task: Basics of document formatting
 
 _If you have limited experience working with documents, this task will help you learn the basics of formatting and terminology._
@@ -29,13 +37,9 @@ _If you have limited experience working with documents, this task will help you 
 
 When finished, [your document should look the same as this one](https://docs.google.com/document/d/1zLllJebhGrHadrW2nA_FeRn4dLKASryT3mrCHcnDPrk/edit?usp=sharing).
 
-If you are confused about some of the terms, refer to the 📝 [Key terms](documents-resources.md#key-terms) section below.
+If you are confused about some of the terms, refer to the [Key terms](documents-resources.md#key-terms) section below.
 
-[link 1](documents-resources.md#key-terms)
+**Related links**
 
-[link 2](documents-resources.md#📝-key-terms)
-
-**Resources:**
-
-* Video: [How to use MS Word](https://www.youtube.com/watch?v=5Im87VPQZ_0&ab_channel=KevinStratvert)
+* **Video:** [How to use MS Word](https://www.youtube.com/watch?v=5Im87VPQZ_0&ab_channel=KevinStratvert)
 
