@@ -46,7 +46,7 @@
 
 ## 📝 Key terms
 
-##key-terms
+## key-terms
 
 [Icon pack for symbols?](https://nucleoapp.com/icons/text-editing)
 
