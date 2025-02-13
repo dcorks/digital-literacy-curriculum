@@ -1,6 +1,6 @@
 # What you need to know about documents
 
-![](../images/documents/documents-con01-header.png)
+![](../images/documents/formatting-characters-in-context.png)
 
 ## 🔠🔡 Concept 01: Text vs. text formatting
 

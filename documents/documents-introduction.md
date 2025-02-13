@@ -1,7 +1,5 @@
 # Documents - learning module
 
-[TOC]
-
 ## Importance
 
 Documents are important (and will never go away) because they are how we remember information and ideas. We think about ideas and discuss them with other people, and then we formalize them by writing them down. Quick, simple ideas become a memo or note on your phone. Ideas about what already happened become reports. Ideas about what to do in the future become official plans. Ideas about what to do together are formalized as proposals, contracts, and agreements. Big, complex ideas get published as books and textbooks. Each of these human activities centres around writing text in a document.
@@ -31,7 +29,11 @@ _If you have limited experience working with documents, this task will help you 
 
 When finished, [your document should look the same as this one](https://docs.google.com/document/d/1zLllJebhGrHadrW2nA_FeRn4dLKASryT3mrCHcnDPrk/edit?usp=sharing).
 
-If you are confused about some of the terms, refer to the 📝 Key terms section below.
+If you are confused about some of the terms, refer to the 📝 [Key terms](documents-resources.md#key-terms) section below.
+
+[link 1](documents-resources.md#key-terms)
+
+[link 2](documents-resources.md#📝-key-terms)
 
 **Resources:**
 
