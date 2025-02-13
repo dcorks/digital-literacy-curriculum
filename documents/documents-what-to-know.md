@@ -287,23 +287,33 @@ Unicode characters can be used to add **visual imagery** to documents that donâ€
 
 # How you can go further
 
-**Get a certification**
+**Do some extra reading**
+
+* [Fonts Knowledge \- Google Fonts](https://fonts.google.com/knowledge)
+
+**Explore advanced functions of your software**
+
+* [Add-ins for MS Word](https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1)  
+* [Add-ons for Google Docs](https://workspace.google.com/marketplace?host=docs)  
+* [Extensions for LibreOffice Writer](https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d)
+
+**Add new functions to your software**
+
+* [Add-ins for MS Word](https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1)  
+* [Add-ons for Google Docs](https://workspace.google.com/marketplace?host=docs)  
+* [Extensions for LibreOffice Writer](https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d)
+
+**Get certifications**
 
 * [Microsoft offers paid exams and certifications for MS Word](https://learn.microsoft.com/en-us/credentials/browse/?products=office-word)  
 * [Google offers free training and certification for Google Docs](https://cloud.google.com/learn/training/workspace)
 
-**Explore advanced functions of the software**
+**Learn other ways to create documents**
 
-* [Add-ins for MS Word](https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1)  
-* [Add-ons for Google Docs](https://workspace.google.com/marketplace?host=docs)  
-* [Extensions for LibreOffice Writer](https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d)
+* Create documents with elegant math formulas and advanced typesetting using LaTeX, in a tool such as [Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
+* Write documents as code using Markdown, in [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) or [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
 
-**Add new functions to the software**
+## Work to do on this page
 
-* [Add-ins for MS Word](https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1)  
-* [Add-ons for Google Docs](https://workspace.google.com/marketplace?host=docs)  
-* [Extensions for LibreOffice Writer](https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d)
-
-**Do some extra reading**
-
-* [Fonts Knowledge \- Google Fonts](https://fonts.google.com/knowledge)
+* Add missing screenshots
+* Create video guides for tasks
