@@ -1,6 +1,6 @@
 # What you need to know about documents
 
-![](../images/documents/formatting-characters-in-context.png)
+![](../images/documents/plain-vs-rich-text-alpha.png)
 
 ## 🔠🔡 Concept 01: Text vs. text formatting
 
@@ -28,7 +28,7 @@ Some basic formatting is stored inside plain text files as **formatting characte
   * In Google Docs, select “Show non-printing characters”  
 * A few common ones are visible in the screenshot and described in the table below it
 
-\[image showing non-printing characters in a document\]
+![](../images/documents/formatting-characters-in-context.png)
 
 | Name | Symbol |
 | :---- | :---- |
@@ -59,7 +59,7 @@ If we are going to format a block of text according to our own designs, we first
 
 ------
 
-![](../images/documents/documents-con02-header.png)
+![](../images/documents/text-styles-menu.png)
 
 ## 📏🎨 Concept 02: Styles & structured design
 
@@ -68,17 +68,16 @@ In good design work, text and the formatting of that text are *designed* separat
 * In a well made document, all text has a defined style associated with it that defines its appearance (its formatting), and all text with that same style has the same appearance.  
   * The formal term for this method of design is “structured authoring”.  
 * Structured authoring is how all modern web pages are made. For most web pages, an .html file defines the page content and the styles of each piece of content, and a .css file defines the appearance of each of those styles.  
-  * Websites [look very different with and without .css files](https://dev.to/vaibhavkhulbe/the-web-without-css-18d).
+  * Websites [look very different with and without .css files](https://dev.to/vaibhavkhulbe/the-web-without-css-18d). The Instagram login page is shown below, as an example.
+
+| ![The Instagram login box on the Instagram homepage, unmodified](../images/documents/css-instagram-1.png) | ![The Instagram login box on the Instagram homepage, with styling information removed](../images/documents/css-instagram-2.png) |
+| :---: | :---: |
 
 ![](css-instagram-1.png)
 
-| ![](../images/documents/css-instagram-1.png) *The Instagram login page, with content \+ .css* | ![](../images/documents/css-instagram-2.png) *The Instagram login page, without .css* |
-| :---: | :---: |
+  * You can also modify the .css files to make a webpage look very different. A Google search exmaple is shown below, as an example.
 
-  
-  * You can also modify the .css files to make a webpage look very different.
-
-| ![](../images/documents/css-google-1.png) *You can freely change the appearance of any website …* | ![](../images/documents/css-google-2.png) *… by altering the page’s CSS file.* |
+| ![Google search results page, unmodified](../images/documents/css-google-1.png) | ![Google search results page, with freely modified colours](../images/documents/css-google-2.png) |
 | :---: | :---: |
 
 Academic documents – such as research papers and journal articles – have strict style guides that writers should follow. There are [many competing styles](https://libanswers.snhu.edu/faq/69000), each used in different academic fields. The most important part of these styles is their requirements for **references and citations**.
@@ -197,8 +196,7 @@ Documents can be changed and modified using **structural editing**.
 
 # What you should keep in mind
 
-| 📄📄📄📄📑📄📄📄 |
-| :---: |
+![](../images/documents/document-emoji-odd-one-out.png)
 
 ## 📃📜 Concept 04: Document appearance and consistency
 
@@ -258,8 +256,7 @@ Word processor documents (.docx, .odt, [.pdf](https://www.adobe.com/acrobat/reso
 
 ------
 
-| Unicode | Uɳιƈσԃҽ ǝpoɔıu∩ |  𝔘𝔫𝔦𝔠𝔬𝔡𝔢 Û̶͖̈́̍̃́̅ṇ̴̡̤͈̟̦̦̘̒̉͆̈́̕͝ĭ̵͔̻͎̪̠̼̤c̶̳̾͐̃̽̈́ǫ̵̞͖͈̯̺͈͈̠̾̈́̈́͗̿͂̄̂͠͠d̷͎͈͍͚͕̠̲̜̘̺͌̌̓̇̅̊̈́̏̀e̸̩͇͚̬̟̓́͛̃  |
-| :---: | :---: | ----- |
+![The text "Unicode", written in various Unicode scripts](../images/documents/unicode-variants-alpha.png)
 
 ## 🔢🔣 Concept 06: Text is Unicode
 
@@ -295,13 +292,13 @@ Unicode characters can be used to add **visual imagery** to documents that don�
 * [Microsoft offers paid exams and certifications for MS Word](https://learn.microsoft.com/en-us/credentials/browse/?products=office-word)  
 * [Google offers free training and certification for Google Docs](https://cloud.google.com/learn/training/workspace)
 
-**Explore advanced functions**
+**Explore advanced functions of the software**
 
 * [Add-ins for MS Word](https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1)  
 * [Add-ons for Google Docs](https://workspace.google.com/marketplace?host=docs)  
 * [Extensions for LibreOffice Writer](https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d)
 
-**Add new functions**
+**Add new functions to the software**
 
 * [Add-ins for MS Word](https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1)  
 * [Add-ons for Google Docs](https://workspace.google.com/marketplace?host=docs)  
