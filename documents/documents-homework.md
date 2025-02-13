@@ -95,3 +95,8 @@ If the original text is long, DON'T INCLUDE THE WHOLE TEXT.
 
 * Your document shouldn’t be more than 1000 words.  
 * Cut out parts of the original text as needed. Limit the content under each heading to two paragraphs at most. (See the document from Task 01 as a model of how to do this.)
+
+## Work to do on this page
+
+* Create quiz
+* Create banner images
