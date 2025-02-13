@@ -1,8 +1,8 @@
 # Knowledge, skills, attitudes
 
-The following are the  knowledge, skills, and attitudes that this learning module is structured on.
+The following are the 📖 knowledge, ⚙️ skills, and 🤔 attitudes that this learning module is structured on.
 
-📖 Knowledge
+## Knowledge
 
 * Knows that plain text files do not support any type of embedded formatting, while rich text does support embedded formatting
 * Knows that large documents and web pages define content and formatting separately
@@ -10,7 +10,7 @@ The following are the  knowledge, skills, and attitudes that this learning modul
 * Knows that PDFs generally appear the same on all devices
 * Knows that documents are not highly secure
 
-⚙️ Skills
+## Skills
 
 * Can copy text without formatting and remove formatting from text
 * Can identify serif, sans-serif, handwriting, and monospaced fonts
@@ -27,7 +27,7 @@ The following are the  knowledge, skills, and attitudes that this learning modul
 * Can make simple edits of PDF files
 * Can use find and replace functions to make multiple changes repeatedly
 
-🤔 Attitudes
+## Attitudes
 
 * Seeks to define document content and document styles independently
 * Shares cloud-based documents with only the necessary editing permissions
