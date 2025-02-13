@@ -1,8 +1,12 @@
 # Resources
 
+[A link](#key-terms)
+
+[A link](#key-terms)
+
 ## 💻 Main software
 
-***Installed***
+***Installed software***
 
 | Name | Cost | Notes |
 | :---- | :---: | :---- |
@@ -10,7 +14,7 @@
 | Microsoft Word (.docx) | $$ | Most widely used |
 | Apple Pages (.pages) | ⊘ | MacOS only |
 
-***Web app***
+***Web apps***
 
 | Name | Cost | Notes |
 | :---- | :---: | :---- |
@@ -19,9 +23,9 @@
 | Microsoft Word 365 | ⊘ |  |
 | Naver Docs | ⊘ |  |
 
-## 🎉 A fun tool
+## 🎉 A fun website to play around with
 
-![][image10]
+![Screenshot of Hemingway Editor](../images/documents/hemingway-editor-h450.png)
 
 | Tool | What it does | When to use it |
 | :---: |  :---- |  :---- |
@@ -44,11 +48,9 @@
 | Overleaf | ($) | Structured authoring software for academic and technical documents; write documents as code |
 | VS Code \+ LaTeX plugins |  |  |
 
-## 📝 Key terms
-
 ## Key terms
 
-[Icon pack for symbols?](https://nucleoapp.com/icons/text-editing)
+## Key terms
 
 ***Font formatting***
 
@@ -132,7 +134,7 @@
 | Line break | `Shift + Enter` | `Shift + Enter` |
 | Page break | `Ctrl + Enter` | `⌘ + Enter (?)` |
 
-**Go deeper**
+**Related links**
 
 * Video: [How to use keyboard selection shortcuts](https://www.youtube.com/watch?v=DDLJUCKzBJw&ab_channel=DanielSchroeder)
 
@@ -146,4 +148,9 @@
 | Free select _by word_ | `Click × 2 & drag` | `Click × 3 & drag` |
 | Free select _by paragraph_ | `Click × 3 & drag` | `Click × 4 & drag` |
 
-\[video demo of mouse selection shortcuts\]
+## Work to do on this page
+
+* Screenshots of icons in list of terms (from here? [Icon pack for symbols?](https://nucleoapp.com/icons/text-editing))
+* Additional spacer element between major sections on this page?
+* Video demonstration of mouse selection shortcuts
+* Figure out how to make internal links work for headings that include emoji
