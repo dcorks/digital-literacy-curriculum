@@ -31,7 +31,7 @@ _If you have limited experience working with documents, this task will help you 
 
 When finished, [your document should look the same as this one](https://docs.google.com/document/d/1zLllJebhGrHadrW2nA_FeRn4dLKASryT3mrCHcnDPrk/edit?usp=sharing).
 
-If you are confused about some of the terms, refer to the 📝 Key terms section below.
+If you are confused about some of the terms, refer to the 📝 [Key terms](documents-resources.md#key-terms) section below.
 
 **Resources:**
 
