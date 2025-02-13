@@ -4,7 +4,7 @@
 
 ## Quiz
 
-\[need to make\]
+.
 
 ![Reflection section banner](../images/reflection-section-banner.png)
 
