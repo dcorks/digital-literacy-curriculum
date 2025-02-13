@@ -1,8 +1,12 @@
 # Reinforce your learning
 
+![Quiz section banner](../images/quiz-section-banner.png)
+
 ## Quiz
 
 \[need to make\]
+
+![Reflection section banner](../images/reflection-section-banner.png)
 
 ## Reflection
 
@@ -19,6 +23,8 @@ Theme questions for this week:
 * Do you pay attention to references? As a reader, do you look at references in books and news articles to check the source of the information? As a writer, do you tell your readers where all of the facts and ideas in your writing came from?
 
 *You aren’t required to respond to these particular questions in your reflection. Check the guidelines about reflection assignments for more information.*
+
+![Assignment section banner](../images/assignment-section-banner.png)
 
 ## Assignment
 
