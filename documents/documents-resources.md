@@ -1,8 +1,6 @@
 # Resources
 
-[A link](#key-terms)
-
-[A link](#key-terms)
+![Main software section banner](../images/main-software-section-banner.png)
 
 ## 💻 Main software
 
@@ -23,6 +21,8 @@
 | Microsoft Word 365 | ⊘ |  |
 | Naver Docs | ⊘ |  |
 
+![Fun website section banner](../images/fun-website-section-banner.png)
+
 ## 🎉 A fun website to play around with
 
 ![Screenshot of Hemingway Editor](../images/documents/hemingway-editor-h450.png)
@@ -30,6 +30,8 @@
 | Tool | What it does | When to use it |
 | :---: |  :---- |  :---- |
 | Hemingway Editor [Hemingwayapp.com](http://Hemingwayapp.com) |  Gives suggestions to make your writing more simple and direct, similar to the style of [Ernest Hemingway](https://en.wikipedia.org/wiki/Ernest_Hemingway#Writing_style) | If you’re concerned that your writing is too convoluted and difficult to understand. Hemingway’s style isn’t the best for all situations, but it’s good for things like reports and slides (and journalism), where clear communication is more important than emotional impact. |
+
+![Additional tools section banner](../images/additional-tools-section-banner.png)
 
 ## 🛠️ Additional tools
 
@@ -48,9 +50,9 @@
 | Overleaf | ($) | Structured authoring software for academic and technical documents; write documents as code |
 | VS Code \+ LaTeX plugins |  |  |
 
-## Key terms
+![Key terms section banner](../images/key-terms-section-banner.png)
 
-## Key terms
+## 📝 Key terms
 
 ***Font formatting***
 
@@ -112,6 +114,8 @@
 | `.odt` | Open Office Libreoffice | Open Office document |
 | `.pages` | Apple Pages | Pages document |
 
+![Keyboard shortcuts section banner](../images/keyboard-shortcuts-section-banner.png)
+
 ## ⌨️ Keyboard shortcuts
 
 | Action | PC Keyboard | Mac keyboard |
@@ -138,6 +142,8 @@
 
 * Video: [How to use keyboard selection shortcuts](https://www.youtube.com/watch?v=DDLJUCKzBJw&ab_channel=DanielSchroeder)
 
+![Mouse shortcuts section banner](../images/mouse-shortcuts-section-banner.png)
+
 ## 🐀 Mouse shortcuts
 
 | Action | Mouse | Touchpad |
@@ -151,6 +157,5 @@
 ## Work to do on this page
 
 * Screenshots of icons in list of terms (from here? [Icon pack for symbols?](https://nucleoapp.com/icons/text-editing))
-* Additional spacer element between major sections on this page?
 * Video demonstration of mouse selection shortcuts
-* Figure out how to make internal links work for headings that include emoji
+* Need to create section header images.
