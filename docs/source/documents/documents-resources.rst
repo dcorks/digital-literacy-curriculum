@@ -1,7 +1,3 @@
-.. role:: raw-html-m2r(raw)
-   :format: html
-
-
 Resources
 =========
 
@@ -14,46 +10,47 @@ Resources
 💻 Main software
 ----------------
 
-**\ *Installed software*\ **
+==============================  ======  ==================================================
+Name                            Cost    Notes
+==============================  ======  ==================================================
+*Installed software*
+------------------------------------------------------------------------------------------
+Libreoffice Writer (.odt)       ⊘      FLOSS
+Microsoft Word (.docx)          $$      Most widely used
+Apple Pages (.pages)            ⊘      MacOS only
+**Web apps**
+------------------------------------------------------------------------------------------
+Google Docs                     ⊘
+Zoho Office Writer              ⊘
+Microsoft Word 365              ⊘
+Naver Docs                      ⊘
+==============================  ======  ==================================================
 
-.. list-table::
-   :header-rows: 1
++------------------------+------------+----------+----------+
+| Header row, column 1   | sdf        | Header 3 | Header 4 |
+| (header rows optional) |            |          |          |
++========================+============+==========+==========+
+| body row 1, column 1   | column 2   | column 3 | column 4 |
++------------------------+------------+----------+----------+
+| body row 2             | ...        | ...      |          |
++------------------------+------------+----------+----------+
 
-   * - Name
-     - Cost
-     - Notes
-   * - Libreoffice Writer (.odt)
-     - ⊘
-     - FLOSS
-   * - Microsoft Word (.docx)
-     - $$
-     - Most widely used
-   * - Apple Pages (.pages)
-     - ⊘
-     - MacOS only
+=====  ====  ==========
+Name   Cost  Notes
+=====  ====  ==========
+Apple   ⊘   MacOS only
+Apple   ⊘   MacOS only
+=====  ====  ==========
+⊘⊘⊘
 
-
-**\ *Web apps*\ **
-
-.. list-table::
-   :header-rows: 1
-
-   * - Name
-     - Cost
-     - Notes
-   * - Google Docs
-     - ⊘
-     - 
-   * - Zoho Office Writer
-     - ⊘
-     - 
-   * - Microsoft Word 365
-     - ⊘
-     - 
-   * - Naver Docs
-     - ⊘
-
-
+=====  =====  =======
+A      B      A and B
+=====  =====  =======
+False  False  False
+True   False  False
+False  True   False
+True   True   True
+=====  =====  =======
 
 .. image:: ../images/fun-website-section-banner.png
    :target: ../images/fun-website-section-banner.png
@@ -89,21 +86,20 @@ Resources
 🛠️ Additional tools
 -------------------
 
-**\ *Installed software*\ **
-| Name | Cost | Notes |
-| :---- | ----- | :---- |
-| *Installed* |  |  |
-| Notepad++ | ⊘ | Plain text editor (Windows) |
-| Adobe Acrobat | $$$ | Official software for editing PDFs |
-
-**\ *Web apps*\ **
-| Name | Cost | Notes |
-| :---- | ----- | :---- |
-| PDF24 | ⊘ | Installed & web app. Tools for editing PDFs |
-| Pastebin | ⊘ | Web app. Platform for sharing plain text. |
-| Overleaf | ($) | Structured authoring software for academic and technical documents; write documents as code |
-| VS Code + LaTeX plugins |  |  |
-
+==============================  ======  ============================================================================================
+Name                            Cost           Notes
+==============================  ======  ============================================================================================
+*Installed software*
+------------------------------------------------------------------------------------------------------------------------------------
+Notepad++                       ⊘      Plain text editor (Windows)
+Adobe Acrobat                   $$$     Official software for editing PDFs |
+**Web apps**
+------------------------------------------------------------------------------------------------------------------------------------
+PDF24                           ⊘      Installed & web app. Tools for editing PDFs
+Pastebin                        ⊘      Web app. Platform for sharing plain text.
+Overleaf                        ($)     Structured authoring software for academic and technical documents; write documents as code
+VS Code + LaTeX plugins
+==============================  ======  ============================================================================================
 
 .. image:: ../images/key-terms-section-banner.png
    :target: ../images/key-terms-section-banner.png
