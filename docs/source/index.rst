@@ -18,9 +18,9 @@ Contents
 
    Introduction </documents/documents-introduction>
    What to know </documents/documents-what-to-know>
-   Introduction </documents/documents-resources>
-   Introduction </documents/documents-ksa>
-   Introduction </documents/documents-homework>
+   Resources </documents/documents-resources>
+   Knowledge, skills, & attitudes </documents/documents-ksa>
+   Homework </documents/documents-homework>
 
 
 Copyright (C) 2025 Daniel Corks <d.corks@gmail.com>
