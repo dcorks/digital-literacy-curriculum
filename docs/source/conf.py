@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Digital Literacy Curriculum'
+copyright = '2025, Daniel Corks'
+author = 'Daniel Corks'
 
 release = '0.1'
 version = '0.1.0'
