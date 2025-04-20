@@ -1,3 +1,3 @@
 Digital Literacy
 ================
-Digital literacy curriculum for high school &amp; university students
+Digital literacy curriculum for high school & university students
