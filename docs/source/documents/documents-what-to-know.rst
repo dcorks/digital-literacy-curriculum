@@ -4,7 +4,7 @@ What you need to know about documents
 
 
 .. image:: ../images/documents/plain-vs-rich-text-alpha.png
-.. target:: ../_images/plain-vs-rich-text-alpha.png
+   :target: ../_images/plain-vs-rich-text-alpha.png
    :alt: 
 
 
