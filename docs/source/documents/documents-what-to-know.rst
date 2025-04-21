@@ -72,7 +72,7 @@ Some basic formatting is stored inside plain text files as **formatting characte
 **Related links**
 
 
-* Article: `How to clear formatting in MS Word <https://xodo.com/blog/how-to-clear-formatting-in-word>`_
+* **Article:** `How to clear formatting in MS Word <https://xodo.com/blog/how-to-clear-formatting-in-word>`_
 
 ----
 
