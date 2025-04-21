@@ -8,8 +8,8 @@ What you need to know about documents
    :alt: 
 
 
-🔠🔡 Concept 01: Text vs. text formatting
------------------------------------------
+Concept 01: Text vs. text formatting 🔠🔡
+--------------------------------------------
 
 In a document, **text** and the **formatting of that text** are *stored* separately.
 
@@ -96,8 +96,8 @@ If we are going to format a block of text according to our own designs, we first
    :alt: 
 
 
-📏🎨 Concept 02: Styles & structured design
--------------------------------------------
+Concept 02: Styles & structured design 📏🎨
+---------------------------------------------
 
 In good design work, text and the formatting of that text are *designed* separately.
 
@@ -111,46 +111,29 @@ In good design work, text and the formatting of that text are *designed* separat
   * Websites `look very different with and without .css files <https://dev.to/vaibhavkhulbe/the-web-without-css-18d>`_. The Instagram login page is shown below, as an example.
 
 .. list-table::
-   :header-rows: 1
+   :header-rows: 0
 
-   * - 
-     .. image:: ../images/documents/css-instagram-1.png
+   * - .. image:: ../images/documents/css-instagram-1.png
         :target: ../images/documents/css-instagram-1.png
         :alt: The Instagram login box on the Instagram homepage, unmodified
      
-     - 
-     .. image:: ../images/documents/css-instagram-2.png
+     - .. image:: ../images/documents/css-instagram-2.png
         :target: ../images/documents/css-instagram-2.png
         :alt: The Instagram login box on the Instagram homepage, with styling information removed
-     
-   * - 
-
-
-
-.. image:: css-instagram-1.png
-   :target: css-instagram-1.png
-   :alt: 
-
-
 
 * You can also modify the .css files to make a webpage look very different. A Google search exmaple is shown below, as an example.
 
 .. list-table::
-   :header-rows: 1
+   :header-rows: 0
 
-   * - 
-     .. image:: ../images/documents/css-google-1.png
+   * - .. image:: ../images/documents/css-google-1.png
         :target: ../images/documents/css-google-1.png
         :alt: Google search results page, unmodified
      
-     - 
-     .. image:: ../images/documents/css-google-2.png
+     - .. image:: ../images/documents/css-google-2.png
         :target: ../images/documents/css-google-2.png
         :alt: Google search results page, with freely modified colours
      
-   * - 
-
-
 Academic documents – such as research papers and journal articles – have strict style guides that writers should follow. There are `many competing styles <https://libanswers.snhu.edu/faq/69000>`_\ , each used in different academic fields. The most important part of these styles is their requirements for **references and citations**.
 
 
@@ -240,7 +223,7 @@ Task 02c: Apply APA style to a document
 
 * MS Word provides templates for APA Style and MLA Style.
 
-*This task is adapted from `resources provided on the APA Style web page <https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers>`_.*
+*This task is adapted from* `resources provided on the APA Style web page <https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers>`_\ *.*
 
 ----
 
@@ -250,8 +233,8 @@ Task 02c: Apply APA style to a document
    :alt: 
 
 
-🔍🔁 Concept 03: Structural changes
------------------------------------
+Concept 03: Structural changes 🔍🔁
+------------------------------------
 
 Documents can be changed and modified using **structural editing**.
 
@@ -306,8 +289,8 @@ What you should keep in mind
    :alt: 
 
 
-📃📜 Concept 04: Document appearance and consistency
-----------------------------------------------------
+Concept 04: Document appearance and consistency 📃📜
+------------------------------------------------------
 
 Document appearance generally **isn’t consistent across devices**. However, the appearance of PDFs *is* **universally consistent**.
 
@@ -342,8 +325,8 @@ To have a **consistent appearance** on all devices, **export your document as a 
    :alt: 
 
 
-📄🔐 Concept 05: Document security
-----------------------------------
+Concept 05: Document security 📄🔐
+-----------------------------------
 
 Individuals and companies may have strong motivations to protect the contents of a document. However, documents are generally **not seen as a highly secure type of file**.
 
@@ -391,15 +374,15 @@ Word processor documents (.docx, .odt, `.pdf <https://www.adobe.com/acrobat/reso
    :alt: The text "Unicode", written in various Unicode scripts
 
 
-🔢🔣 Concept 06: Text is Unicode
---------------------------------
+Concept 06: Text is Unicode 🔢🔣
+---------------------------------
 
 Unicode is the global standard for encoding text. Text from all languages and writing systems can be encoded using Unicode.
 
 Video: `The Unicode Consortium Overview <https://www.youtube.com/watch?v=-n2nlPHEMG8>`_
 
 
-* Text ‘encoding’ refers to changing text to numbers so that it can be understood by a computer.)  
+* Text ‘encoding’ refers to changing text to numbers so that it can be understood by a computer.  
 * Unicode is universal, so your device can display `all of the writing systems that are part of Unicode <https://en.wikipedia.org/wiki/List_of_writing_systems#List_of_writing_systems_by_adoption>`_\ : Arabic العربية, Greek Ελληνικά, Hangul 한글, Chinese 漢文, Sanskrit संस्कृत-, and more.  
 * All emoji are defined by Unicode.⌘  
 
