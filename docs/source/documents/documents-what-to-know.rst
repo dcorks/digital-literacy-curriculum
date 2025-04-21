@@ -4,6 +4,7 @@ What you need to know about documents
 
 
 .. image:: ../images/documents/plain-vs-rich-text-alpha.png
+   :align: center
    :target: ../_images/plain-vs-rich-text-alpha.png
    :alt: 
 
@@ -44,7 +45,8 @@ Some basic formatting is stored inside plain text files as **formatting characte
 
 
 .. image:: ../images/documents/formatting-characters-in-context.png
-   :target: ../images/documents/formatting-characters-in-context.png
+   :align: center
+   :target: ../_images/formatting-characters-in-context.png
    :alt: 
 
 
@@ -92,7 +94,8 @@ If we are going to format a block of text according to our own designs, we first
 
 
 .. image:: ../images/documents/text-styles-menu.png
-   :target: ../images/documents/text-styles-menu.png
+   :align: center
+   :target: ../_images/text-styles-menu.png
    :alt: 
 
 
@@ -114,11 +117,11 @@ In good design work, text and the formatting of that text are *designed* separat
    :header-rows: 0
 
    * - .. image:: ../images/documents/css-instagram-1.png
-        :target: ../images/documents/css-instagram-1.png
+        :target: ../_images/css-instagram-1.png
         :alt: The Instagram login box on the Instagram homepage, unmodified
      
      - .. image:: ../images/documents/css-instagram-2.png
-        :target: ../images/documents/css-instagram-2.png
+        :target: ../_images/css-instagram-2.png
         :alt: The Instagram login box on the Instagram homepage, with styling information removed
 
 * You can also modify the .css files to make a webpage look very different. A Google search exmaple is shown below, as an example.
@@ -127,11 +130,11 @@ In good design work, text and the formatting of that text are *designed* separat
    :header-rows: 0
 
    * - .. image:: ../images/documents/css-google-1.png
-        :target: ../images/documents/css-google-1.png
+        :target: ../_images/css-google-1.png
         :alt: Google search results page, unmodified
      
      - .. image:: ../images/documents/css-google-2.png
-        :target: ../images/documents/css-google-2.png
+        :target: ../_images/css-google-2.png
         :alt: Google search results page, with freely modified colours
      
 Academic documents – such as research papers and journal articles – have strict style guides that writers should follow. There are `many competing styles <https://libanswers.snhu.edu/faq/69000>`_\ , each used in different academic fields. The most important part of these styles is their requirements for **references and citations**.
@@ -229,7 +232,8 @@ Task 02c: Apply APA style to a document
 
 
 .. image:: ../images/documents/ms-word-find-replace-dialogue.png
-   :target: ../images/documents/ms-word-find-replace-dialogue.png
+   :align: center
+   :target: ../_images/ms-word-find-replace-dialogue.png
    :alt: 
 
 
@@ -285,7 +289,8 @@ What you should keep in mind
 
 
 .. image:: ../images/documents/document-emoji-odd-one-out.png
-   :target: ../images/documents/document-emoji-odd-one-out.png
+   :align: center
+   :target: ../_images/document-emoji-odd-one-out.png
    :alt: 
 
 
@@ -321,7 +326,8 @@ To have a **consistent appearance** on all devices, **export your document as a 
 
 
 .. image:: ../images/documents/password-protected-document.png
-   :target: ../images/documents/password-protected-document.png
+   :align: center
+   :target: ../_images/password-protected-document.png
    :alt: 
 
 
@@ -370,7 +376,8 @@ Word processor documents (.docx, .odt, `.pdf <https://www.adobe.com/acrobat/reso
 
 
 .. image:: ../images/documents/unicode-variants-alpha.png
-   :target: ../images/documents/unicode-variants-alpha.png
+   :align: center
+   :target: ../_images/unicode-variants-alpha.png
    :alt: The text "Unicode", written in various Unicode scripts
 
 
