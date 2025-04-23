@@ -150,7 +150,6 @@ Academic documents – such as research papers and journal articles – have str
 
 **Related links**
 
-
 * **Video:** `How to use styles in MS Word <https://www.youtube.com/watch?v=UOVU6qQ2iOM&ab_channel=KevinStratvert>`_  
 * **Article:** `Official guide <https://apastyle.apa.org/style-grammar-guidelines>`_ to APA Style and `interactive tutorial <https://extras.apa.org/apastyle/basics-7e/#/>`_  
 
@@ -169,8 +168,7 @@ Academic documents – such as research papers and journal articles – have str
 Task 02a: Impose structure on a document
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Instructions:** Using the document you created in Task 01, format the text in the style of a general business report. The resulting document should look organized and professional. Specifically:
-
+**Instructions:** Using the document you created in Task 01a, format the text in the style of a general business report. The resulting document should look organized and professional. Specifically:
 
 * The text is easy to read
 * Structure of the document is easy to visually parse (even without reading any of the text)
@@ -178,12 +176,10 @@ Task 02a: Impose structure on a document
 
 **Conditions:** Apply the concepts of structured authoring when designing the document.
 
-
 * Use the defined styles available in your word processing software.
 * Insert a Table of Contents that is automatically generated based on the document’s contents.
 
 **Tips:** Using styles makes your work faster and your results better looking and more flexible!
-
 
 * To apply a style: Select the relevant text, and then pick the appropriate style. “Normal” for the body text, “Title” for the title, “Heading 1” for the headings, “Heading 2” for the subheadings, etc.  
 * To define a style: Manually format part of the text, then update the relevant style to match the current text.  
@@ -265,11 +261,10 @@ Documents can be changed and modified using **structural editing**.
 
 **Resources:**
 
-
-* Video: `Basics of using find & replace in MS Word <https://support.microsoft.com/en-us/office/find-and-replace-text-c6728c16-469e-43cd-afe4-7708c6c779b7>`_  
-* Video: `Advanced find & replace tutorial for MS Word <https://www.youtube.com/watch?v=8ZSlu4DWJ5k&ab_channel=TechnologyforTeachersandStudents>`_  
-* Interactive website: `A tutorial about the basics of regex <https://regexone.com/>`_  
-* Tool: `Break down regex expressions and test on any provided text <https://regexr.com/>`_
+* **Video:** `Basics of using find & replace in MS Word <https://support.microsoft.com/en-us/office/find-and-replace-text-c6728c16-469e-43cd-afe4-7708c6c779b7>`_  
+* **Video:** `Advanced find & replace tutorial for MS Word <https://www.youtube.com/watch?v=8ZSlu4DWJ5k&ab_channel=TechnologyforTeachersandStudents>`_  
+* **Interactive website:** `A tutorial about the basics of regex <https://regexone.com/>`_  
+* **Tool:** `Break down regex expressions and test on any provided text <https://regexr.com/>`_
 
 ----
 
@@ -370,7 +365,7 @@ Word processor documents (.docx, .odt, `.pdf <https://www.adobe.com/acrobat/reso
 **Related links**
 
 
-* Article: `Adobe - Can PDFs contain viruses? <https://www.adobe.com/acrobat/resources/can-pdfs-contain-viruses.html>`_
+* **Article:** `Adobe - Can PDFs contain viruses? <https://www.adobe.com/acrobat/resources/can-pdfs-contain-viruses.html>`_
 
 ----
 
@@ -408,50 +403,45 @@ Unicode characters can be used to add **visual imagery** to documents that don�
 
 **Related links**
 
-
-* `The official Unicode website <https://home.unicode.org/>`_  
-* `Search tool for Unicode characters <http://xahlee.info/comp/unicode_index.html?q=>`_  
-* `Emojipedia: Dictionary for emoji meanings <https://emojipedia.org/>`_  
-* `Emoji Finder: Emoji search tool <https://emojifinder.com/>`_  
-* `Quiz: Guess the movie title based on emoji <https://www.britannica.com/quiz/guess-the-movie-emoji-quiz>`_
+* **Website:** `The official Unicode website - Unicode.org <https://home.unicode.org/>`_  
+* **Search:** `Find Unicode characters by name - ∑ Xah Code <http://xahlee.info/comp/unicode_index.html?q=>`_  
+* **Dictionary:** `Dictionary for emoji meanings - Emojipedia <https://emojipedia.org/>`_  
+* **Search:** `Find emoji by name - Emoji Finder<https://emojifinder.com/>`_  
+* **Quiz:** `Guess the movie title based on emoji - Britannica <https://www.britannica.com/quiz/guess-the-movie-emoji-quiz>`_
 
 How you can go further
 ======================
 
 **Do some extra reading**
 
-
 * `Fonts Knowledge - Google Fonts <https://fonts.google.com/knowledge>`_
 
 **Explore advanced functions of your software**
 
-
-* `Add-ins for MS Word <https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1>`_  
-* `Add-ons for Google Docs <https://workspace.google.com/marketplace?host=docs>`_  
-* `Extensions for LibreOffice Writer <https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d>`_
+* [to add]
 
 **Add new functions to your software**
 
-
-* `Add-ins for MS Word <https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1>`_  
-* `Add-ons for Google Docs <https://workspace.google.com/marketplace?host=docs>`_  
-* `Extensions for LibreOffice Writer <https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d>`_
+* `Add-ins for MS Word - Microsoft AppSource <https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1>`_  
+* `Add-ons for Google Docs - Google Workspace Marketplace <https://workspace.google.com/marketplace?host=docs>`_  
+* `Extensions for LibreOffice Writer - LibreOffice<https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d>`_
 
 **Get certifications**
 
-
-* `Microsoft offers paid exams and certifications for MS Word <https://learn.microsoft.com/en-us/credentials/browse/?products=office-word>`_  
-* `Google offers free training and certification for Google Docs <https://cloud.google.com/learn/training/workspace>`_
+* `Microsoft offers paid exams and certifications for MS Word - Microsoft Learn <https://learn.microsoft.com/en-us/credentials/browse/?products=office-word>`_  
+* `Google offers free training and certification for Google Docs - Google Cloud <https://cloud.google.com/learn/training/workspace>`_
 
 **Learn other ways to create documents**
 
-
+* Write documents as code using Markdown, in `Obsidian <https://obsidian.md/>`_, `Github <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>`_ or `Visual Studio Code <https://code.visualstudio.com/docs/languages/markdown>`_
 * Create documents with elegant math formulas and advanced typesetting using LaTeX, in a tool such as `Overleaf <https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes>`_.
-* Write documents as code using Markdown, in `Github <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>`_ or `Visual Studio Code <https://code.visualstudio.com/docs/languages/markdown>`_
 
-Work to do on this page
------------------------
+.
 
+.
+
+**Work to do on this page**
 
 * Add missing screenshots
+* Add information about advanced functions of word processors
 * Create video guides for tasks
