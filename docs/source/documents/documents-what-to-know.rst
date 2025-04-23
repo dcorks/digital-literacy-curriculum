@@ -424,7 +424,7 @@ How you can go further
 
 * `Add-ins for MS Word - Microsoft AppSource <https://appsource.microsoft.com/en-us/marketplace/apps?product=office%3Bword&page=1>`_  
 * `Add-ons for Google Docs - Google Workspace Marketplace <https://workspace.google.com/marketplace?host=docs>`_  
-* `Extensions for LibreOffice Writer - LibreOffice<https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d>`_
+* `Extensions for LibreOffice Writer - LibreOffice <https://extensions.libreoffice.org/extensions?Tags%5B0%5D=44&start=0&ord=download_d>`_
 
 **Get certifications**
 
