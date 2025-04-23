@@ -18,7 +18,7 @@ Name                            Cost    Notes
 Libreoffice Writer (.odt)        ⊘      FLOSS
 Microsoft Word (.docx)           $$      Most widely used
 Apple Pages (.pages)             ⊘      MacOS only
-**Web apps**
+*Web apps*
 ------------------------------------------------------------------------------------------
 Google Docs                      ⊘
 Zoho Office Writer               ⊘
@@ -39,6 +39,7 @@ Naver Docs                       ⊘
 .. image:: ../images/documents/hemingway-editor-h450.png
    :target: ../images/documents/hemingway-editor-h450.png
    :alt: Screenshot of Hemingway Editor
+   :align: center
 
 
 .. list-table::
