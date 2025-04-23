@@ -1,6 +1,10 @@
 
-What you need to know about documents
+What to know about documents
 =====================================
+
+
+Need to know
+--------------
 
 
 .. image:: ../images/documents/plain-vs-rich-text-alpha.png
@@ -8,9 +12,8 @@ What you need to know about documents
    :target: ../_images/plain-vs-rich-text-alpha.png
    :alt: 
 
-
 Concept 01: Text vs. text formatting 🔠🔡
---------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In a document, **text** and the **formatting of that text** are *stored* separately.
 
@@ -77,7 +80,7 @@ Some basic formatting is stored inside plain text files as **formatting characte
 ----
 
 Task 01a: Remove formatting from a source document
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 If we are going to format a block of text according to our own designs, we first need to remove any formatting that it already has.
 
@@ -100,7 +103,7 @@ If we are going to format a block of text according to our own designs, we first
 
 
 Concept 02: Styles & structured design 📏🎨
----------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In good design work, text and the formatting of that text are *designed* separately.
 
@@ -166,7 +169,7 @@ Academic documents – such as research papers and journal articles – have str
 ----
 
 Task 02a: Impose structure on a document
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 **Instructions:** Using the document you created in Task 01a, format the text in the style of a general business report. The resulting document should look organized and professional. Specifically:
 
@@ -195,7 +198,7 @@ Task 02a: Impose structure on a document
 ----
 
 Task 02b: Recreate an existing document
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 **Instructions:** Recreate the structure and appearance of this document, based on `this source text <https://pastebin.com/GwXpg29U>`_\ , `this set of defined styles <https://pastebin.com/jh98xT8Y>`_\ , and `this source image <https://imgur.com/a/dRHI5Cx>`_. The end result `should look like this target document <https://drive.google.com/file/d/1zaKJNn6TJlRLFdfhjupcUf3iJBOOOvCr/view?usp=sharing>`_.
 
@@ -213,7 +216,7 @@ Task 02b: Recreate an existing document
 ----
 
 Task 02c: Apply APA style to a document
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 **Instructions:** Apply APA style to `this research paper <https://pastebin.com/mJEMr3mZ>`_.
 
@@ -234,7 +237,7 @@ Task 02c: Apply APA style to a document
 
 
 Concept 03: Structural changes 🔍🔁
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Documents can be changed and modified using **structural editing**.
 
@@ -269,7 +272,7 @@ Documents can be changed and modified using **structural editing**.
 ----
 
 Task 03a: Find & replace
-^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""""
 
 **Instructions:** Make a copy of `this document <https://docs.google.com/document/d/1sS0-hr5MWTsEREdbntZJtkoVAeDGREpniTY8i9yqARw/copy>`_. Using only the find & replace function, change the spellings of all of the words in the document to match U.K. English spelling rules.
 
@@ -279,8 +282,8 @@ Task 03a: Find & replace
 
 ----
 
-What you should keep in mind
-============================
+Keep in mind
+-------------
 
 
 .. image:: ../images/documents/document-emoji-odd-one-out.png
@@ -290,7 +293,7 @@ What you should keep in mind
 
 
 Concept 04: Document appearance and consistency 📃📜
-------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Document appearance generally **isn’t consistent across devices**. However, the appearance of PDFs *is* **universally consistent**.
 
@@ -327,7 +330,7 @@ To have a **consistent appearance** on all devices, **export your document as a 
 
 
 Concept 05: Document security 📄🔐
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Individuals and companies may have strong motivations to protect the contents of a document. However, documents are generally **not seen as a highly secure type of file**.
 
@@ -377,7 +380,7 @@ Word processor documents (.docx, .odt, `.pdf <https://www.adobe.com/acrobat/reso
 
 
 Concept 06: Text is Unicode 🔢🔣
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Unicode is the global standard for encoding text. Text from all languages and writing systems can be encoded using Unicode.
 
@@ -410,7 +413,7 @@ Unicode characters can be used to add **visual imagery** to documents that don�
 * **Quiz:** `Guess the movie title based on emoji - Britannica <https://www.britannica.com/quiz/guess-the-movie-emoji-quiz>`_
 
 How you can go further
-======================
+------------------------------
 
 **Do some extra reading**
 
