@@ -171,7 +171,8 @@ File types 📂
 | ``.ppt``       | MS Powerpoint             | Older MS Powerpoint slide decks (before 2003)                      |
 +----------------+---------------------------+--------------------------------------------------------------------+
 | ``.odp``       | Open Office               | Open Office slide deck                                             |
-| ``.odp``       | Libreoffice               | Libreoffice slide deck                                             |
+|                |                           |                                                                    |
+|                | Libreoffice               | Libreoffice slide deck                                             |
 +----------------+---------------------------+--------------------------------------------------------------------+
 | ``.key``       | Apple Keynote             | Keynote slide deck                                                 |
 +----------------+---------------------------+--------------------------------------------------------------------+
