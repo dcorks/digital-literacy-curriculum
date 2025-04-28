@@ -22,6 +22,17 @@ Contents
    Knowledge, skills, & attitudes </documents/documents-ksa>
    Homework </documents/documents-homework>
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Slides
+
+   Introduction </slides/slides-introduction>
+   What to know </slides/slides-what-to-know>
+   Resources </slides/slides-resources>
+   Knowledge, skills, & attitudes </slides/slides-ksa>
+   Homework </slides/slides-homework>
+
 
 Copyright (C) 2025 Daniel Corks <d.corks@gmail.com>
 
