@@ -163,6 +163,7 @@ File types 📂
 | File extension | Software                 | Notes                                                               |
 +================+=========================+======================================================================+
 | ``.pdf``       | Adobe Acrobat Universal   | Gives consistent appearance on all devices                         |
+|                |                           |                                                                    |
 |                |                           | “\ **p**\ ortable \ **d**\ ocument \ **f**\ ormat”                 |
 +----------------+---------------------------+--------------------------------------------------------------------+
 | ``.pptx``      | MS Powerpoint             | Modern MS Powerpoint slide decks (since 2003)                      |
@@ -230,8 +231,8 @@ Mouse shortcuts 🐀
 | **While clicking and dragging the resize handles on edges of objects**                              |
 +-------------------------------------------------------+----------------------+----------------------+
 | Mirrored resize                                       |                      | ``Ctrl + drag``      |
-| This means resizing an object based on its centre                            |                      |
-| instead of its edge                                                                                 |
+| This means resizing an object based on its centre     |                      |                      |
+| instead of its edge                                   |                      |                      |
 +-------------------------------------------------------+----------------------+----------------------+
 | Prevent object from snapping to guidelines            |                      | ``Alt + drag``       |
 +-------------------------------------------------------+----------------------+----------------------+
