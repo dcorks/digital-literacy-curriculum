@@ -308,6 +308,9 @@ therefore allows for flexible editing).
 
 Resources with free slide templates were provided earlier.
 
+Keep in mind
+--------------
+
 Concept 04: Primary resource vs. secondary resource
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
